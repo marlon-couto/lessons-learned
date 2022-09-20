@@ -5,4 +5,17 @@ body {
 header {
   top: 0;
   position: fixed;
+  border: 2px solid red;
+}
+
+article {
+  border: 2px solid yellow;
+}
+
+footer {
+  border: 2px solid green;
+}
+
+#lists {
+  border: 2px solid blue;
 }
