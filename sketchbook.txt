@@ -1,1 +1,9 @@
-Sou o Marlon e moro em SP. Sou jedi amador e peguei um níveis de Paladino para ficar mais tanker. Gosto de jogos de tiro mas não desejo viver dentro do GTA San Andreas. Meu estilo musical favorito é metal, mas todo dia eu canto um piseiro porque música boa não tem rótulo. paz!
+<p>
+        Em meu primeiro mês de estudo na Trybe, aprendi tanta coisa nova que
+        fica difícil elencar qual aprendizado foi mais importante ou qual mais
+        gostei. Os primeiros assuntos aprendidos foram direcionados ao uso
+        básico do terminal, depois aprendemos sobre versionamento de código: sua
+        importância, utilidade e como usar o git, que é
+        <strong>maravilhoso!</strong> Estou muito animado com meu resultado até
+        aqui e vou aproveitar ao máximo tudo que a Trybe tem a oferecer.
+      </p>
