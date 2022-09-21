@@ -94,14 +94,6 @@ aside p {
   padding: 10px;
 }
 
-.lado-esquerdo {
-  float: left;
-}
-
-.lado-direto {
-  float: right;
-}
-
 #titulo_da_tabela {
   position: relative;
   left: 15px;
