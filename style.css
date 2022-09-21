@@ -5,12 +5,11 @@
 
 body {
   background-color: rgb(253, 251, 251);
-  font-family: "DejaVu Serif", serif;
+  font-family: DejaVuSerif, serif;
 }
 
-h1,
-h2 {
-  font-family: "Cantarell", sans-serif;
+h1 , h2 {
+  font-family: Cantarell, sans-serif;
 }
 
 h2 {
@@ -51,9 +50,7 @@ main {
   margin-left: 20px;
 }
 
-table,
-tr,
-td {
+table , tr , td {
   border: 2.5px solid rgb(67, 115, 67);
   border-collapse: collapse;
 }
