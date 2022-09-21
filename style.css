@@ -40,7 +40,7 @@ footer a:hover {
 }
 
 img {
-  margin-left: 35px;
+  margin-left: 36px;
   margin-top: 100px;
   margin-bottom: 30px;
   border-radius: 50%;
@@ -69,7 +69,7 @@ td {
 }
 
 #listas {
-  margin: 0 auto 20px;
+  margin-bottom: 30px;
 }
 
 #listas div {
@@ -79,7 +79,7 @@ td {
 
 #listas ol {
   margin-top: 20px;
-  margin-left: 20px;
+  margin-left: 30px;
   line-height: 1.3em;
 }
 
@@ -94,6 +94,7 @@ td {
 }
 
 .lado-direito {
+  margin-top: 10px;
   margin-bottom: 20px;
   margin-right: 50%;
   float: right;
@@ -105,7 +106,7 @@ td {
 .lado-direito p {
   color: rgb(253, 251, 251);
   background-color: rgb(67, 115, 67);
-  padding: 18px;
+  padding: 20px;
   text-align: center;
 }
 
